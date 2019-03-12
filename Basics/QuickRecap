@@ -16,3 +16,5 @@
 #a.max()
 #a.argmax-index of the maximum of the numbers
 #a.argmin-index of the least- make sure to see the shape of the object before you use it
+#filter=m>50
+#m[filter]
