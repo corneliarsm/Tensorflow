@@ -1,0 +1,18 @@
+#Notes
+#np.linspace (0,100,1000)
+#np.arange (0,100,10)
+#np.random.uniform (0,100,[10,10])
+#np.random.normal (0,10,[10,10])
+#m[1,1] (2nd row , 2nd column)
+#m[:,1] (all rows in column 2)
+#m[1,:] (all columns in row 2)
+#m[1:3,](all columns in rows 0 to 2)
+#m[,1:3](all rows in column 1 to 2)
+#m[1:3,1:3] all rows from 1 to 2, and all columns from 1 to 2
+#np.reshape- reshape in the shape you need
+#a=np.random.randint(0,100,[10,10])
+#a.mean()
+#a.min()
+#a.max()
+#a.argmax-index of the maximum of the numbers
+#a.argmin-index of the least- make sure to see the shape of the object before you use it
